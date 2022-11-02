@@ -1,0 +1,32 @@
+#page {
+    background-color: rgba(255, 217, 0, 0.5);
+    text-align: center;
+}
+
+#color {
+    background-color: rgba(255, 217, 0, 0.5);
+}
+
+.homepage-title {
+    background-color: black;
+    color: red;
+    font-size: 50px;
+    font-weight: 700;
+    font-family:  serif;
+}
+
+.toggle-home {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font font-weight: bold;
+}
+
+h2 {
+    color: rgb(117, 190, 123);
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
